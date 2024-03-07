@@ -1,0 +1,9 @@
+body{
+    background-image: url('https://img.freepik.com/vetores-gratis/fundo-de-nuvem-vetor-de-estilo-de-corte-de-papel-pastel_53876-135914.jpg?t=st=1709039380~exp=1709042980~hmac=010adbb5be4fb642b0068e432bde7c9cbc9b07b4f0a11a8cd7b1213fc1da24c6&w=900');
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    width: auto;
+}
